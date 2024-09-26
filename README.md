@@ -27,6 +27,10 @@
       <li>A modern browser that supports ES6+</li>
       </ui>
     <h2>Installation</h2>
-           
+      <ui>
+      <li>Clone the repository:</li>
+        <li>git clone https://github.com/your-username/personal-finance-tracker.git</li>
+      <li>Navigate into the project directory:</li>
+      </ui>
   </body>
 </html>
