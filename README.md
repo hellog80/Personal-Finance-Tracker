@@ -29,7 +29,14 @@
     <h2>Installation</h2>
       <ui>
       <li>Clone the repository:<br>&nbsp;&nbsp;&nbsp;<code>git clone https://github.com/your-username/personal-finance-tracker.git</code></li>
-      <li>Navigate into the project directory:</li>
+      <li>Navigate into the project directory:<br>&nbsp;&nbsp;&nbsp;<code>cd personal-finance-tracker</code></li>
+      <li>Install dependencies (only required if using the optional backend):<br>&nbsp;&nbsp;&nbsp;<code>npm install</code></li>
+      <li>Run the application:<br>&nbsp;&nbsp;&nbsp;<code>npm start</code></li>
+      </ui>
+     <h2>Usage</h2>
+      <ui>
+      <li><b>Add Income/Expense</b>: Input the amount, category, and description, and the app will automatically add it to the transaction list.</li>
+      <li><b>Set Savings Goals</b>: Define a savings goal, and the app will track how close you are to reaching it based on your income and expenses.</li>
       </ui>
   </body>
 </html>
