@@ -29,6 +29,6 @@
 
      <h3>Installation</h3>
       Clone the repository:
-      <code>it clone https://github.com/hellog80/personal-finance-tracker.git</code>
+      
   </body>
 </html>
