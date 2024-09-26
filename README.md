@@ -22,5 +22,9 @@
     </ui>
     <h2>Getting Started</h2>
       <h3>Prerequisites</h3>
+      <ui>
+      <li>Node.js installed on your machine (only if using the optional backend)</li>
+      <li>A modern browser that supports ES6+</li>
+      </ui>
   </body>
 </html>
