@@ -28,8 +28,7 @@
       </ui>
     <h2>Installation</h2>
       <ui>
-      <li>Clone the repository:</li>
-        <li><code>git clone https://github.com/your-username/personal-finance-tracker.git</code></li>
+      <li>Clone the repository:<br><code>git clone https://github.com/your-username/personal-finance-tracker.git</code></li>
       <li>Navigate into the project directory:</li>
       </ui>
   </body>
