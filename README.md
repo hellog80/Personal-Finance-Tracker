@@ -13,5 +13,12 @@
          <li>Responsive Design: Optimized for mobile and desktop usage.</li>
          <li>LocalStorage/IndexedDB: Data is saved locally, ensuring you don't lose your records.</li>
       </ui>
+    <h2>Tech Stack</h2>
+    <ui>
+      <li>Frontend: HTML5, CSS3, JavaScript (ES6+)</li>
+      <li>Backend: Node.js, Express (Optional if adding a backend for persistent data storage)</li>
+      <li>Data Visualization: Chart.js</li>
+      <li>Storage: LocalStorage or IndexedDB (for local data persistence)</li>
+    </ui>
   </body>
 </html>
