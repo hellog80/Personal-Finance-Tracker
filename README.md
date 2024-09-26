@@ -20,5 +20,7 @@
       <li>Data Visualization: Chart.js</li>
       <li>Storage: LocalStorage or IndexedDB (for local data persistence)</li>
     </ui>
+    <h2>Getting Started</h2>
+      <h3>Prerequisites</h3>
   </body>
 </html>
