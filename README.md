@@ -26,5 +26,9 @@
       <li>Node.js installed on your machine (only if using the optional backend)</li>
       <li>A modern browser that supports ES6+</li>
       </ui>
+
+     <h3>Installation</h3>
+      Clone the repository:
+      <code>it clone https://github.com/hellog80/personal-finance-tracker.git</code>
   </body>
 </html>
