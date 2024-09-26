@@ -27,7 +27,7 @@
       <li>A modern browser that supports ES6+</li>
       </ui>
 
-     <h3>Installation:</h3>
+    
       Clone the repository:
       
   </body>
