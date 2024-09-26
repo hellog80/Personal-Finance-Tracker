@@ -37,6 +37,11 @@
       <ui>
       <li><b>Add Income/Expense</b>: Input the amount, category, and description, and the app will automatically add it to the transaction list.</li>
       <li><b>Set Savings Goals</b>: Define a savings goal, and the app will track how close you are to reaching it based on your income and expenses.</li>
+      <li><b>View Visualizations</b>: Navigate to the "Insights" tab to see pie charts of expenses by category and line charts of savings over time.</li>
+      </ui>
+    <h2>License</h2>
+      <ui>
+      <li>This project is licensed under the MIT License - see the LICENSE file for details.</li>
       </ui>
   </body>
 </html>
