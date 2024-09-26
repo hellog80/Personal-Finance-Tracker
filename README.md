@@ -26,7 +26,7 @@
       <li>Node.js installed on your machine (only if using the optional backend)</li>
       <li>A modern browser that supports ES6+</li>
       </ui>
-
+    <h2>Installation</h2>
            
   </body>
 </html>
