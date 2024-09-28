@@ -28,7 +28,7 @@
       </ui>
     <h2>Installation</h2>
       <ui>
-      <li>Clone the repository:<br>&nbsp;&nbsp;&nbsp;<code>git clone https://github.com/your-username/personal-finance-tracker.git</code></li>
+      <li>Clone the repository:<br>&nbsp;&nbsp;&nbsp;<code>git clone https://github.com/hellog80/personal-finance-tracker.git</code></li>
       <li>Navigate into the project directory:<br>&nbsp;&nbsp;&nbsp;<code>cd personal-finance-tracker</code></li>
       <li>Install dependencies (only required if using the optional backend):<br>&nbsp;&nbsp;&nbsp;<code>npm install</code></li>
       <li>Run the application:<br>&nbsp;&nbsp;&nbsp;<code>npm start</code></li>
